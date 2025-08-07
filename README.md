@@ -3,8 +3,10 @@
 VYANA is an AI-powered research assistant built on IBM Watsonx and Granite foundation models. It helps students, researchers, and professionals accelerate their academic and industrial research by automating knowledge discovery, summarization, and collaboration. 
 ## 📄 Full Project Details
 The complete project description, features, screenshots, certificates, and technical documentation are available in the PDF below:  
-
 📌 [https://github.com/chitra231025/VYANA--AI-Research-Agent/blob/main/VYANA%20Research%20Agent.pdf]
+
+##ipynb file
+Link-notebooks/VYANA_AI_Research_Agent_Demo.ipynb
 
 ## 🚀 Key Features
 - Semantic search across research papers, journals, and datasets  
